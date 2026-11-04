@@ -1,0 +1,24 @@
+# Data (too large / not ours to redistribute)
+*.csv
+*.xlsx
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+*.key
