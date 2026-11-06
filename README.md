@@ -103,7 +103,7 @@ That single fact reframes the marketing budget. Retention spend on the top segme
 ## Running it
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ecommerce-customer-segmentation.git
+git clone https://github.com/Pierre-Aziz/ecommerce-customer-segmentation.git
 cd ecommerce-customer-segmentation
 pip install -r requirements.txt
 ```
